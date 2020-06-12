@@ -7,7 +7,7 @@ const CollectionPreview = ({ title, items }) => (
     <h1>{title.toUpperCase()}</h1>
     <div className="preview">
       {
-        items.filter((item, index) => index < 4).map(({ id, ...itemProps }) => <CollectionItem key={id} {...itemProps} />
+        items.filter((item, index) => index < 4).map((item) => <CollectionItem key={item.id} item={item} />
         )}
     </div>
   </div>
