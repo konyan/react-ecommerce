@@ -32,6 +32,7 @@ class App extends Component {
         setCurrentUser(user)
       }
     });
+
   }
 
   componentWillUnmount() {

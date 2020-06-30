@@ -1,68 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="https://github.com/konyan/react-ecommerce">
+    <img src="./src/assets/crown.svg" alt="Logo" width="240" height="auto">
+  </a>
+  <h3 align="center">Crown Clothing E-commerce</h3>
 
-## Available Scripts
+  <p align="center">
+    Crown Clothing E-commerce Platform writing React Best Practice.
+    <br />
+    <br />
+    <a href="https://angry-sammet-b6f191.netlify.app/">View Demo</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+## About The Project
 
-### `yarn start`
+<a href="https://angry-sammet-b6f191.netlify.app/">
+    <img src="./src/assets/images/photo.png" alt="Logo" width="100%" height="auto">
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Simple E-commerce practise with React-Redux and use Stripe as a payment system. Use every best practise and check performance for every detail.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Built With
 
-### `yarn test`
+For the whole project, I used following tools and language.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [HTML]()
+- [CSS Module]()
+- [Javasript]()
+- [Es6]()
+- [React](https://reactjs.org/)
+- [Redux]()
+- [React-Router]()
+- [Sega]()
+- [Stripe]()
 
-### `yarn build`
+<!-- CONTACT -->
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+👤 **KoNyan**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Github: [GitHub](https://github.com/konyan)
+- Twitter: [Twitter](https://www.linkedin.com/in/nyanlintun/)
+- Linkedin: [Linkedin](https://twitter.com/devkonyan)
 
-### `yarn eject`
+<!-- SUPPORT -->
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Show your support
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Give a ⭐️ if you like this project!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- ACKNOWLEDGEMENTS -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Acknowledgements
 
-## Learn More
+Thanks to
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [CSS Tricks](https://css-tricks.com/controlling-css-animations-transitions-javascript/)
